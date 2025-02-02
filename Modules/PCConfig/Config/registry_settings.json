@@ -1,0 +1,9 @@
+{
+    "RegistrySettings": {
+        "KeyPath": "HKLM:\\SOFTWARE\\PCConfig",
+        "Settings": {
+            "Setting1": "Value1",
+            "Setting2": "Value2"
+        }
+    }
+}

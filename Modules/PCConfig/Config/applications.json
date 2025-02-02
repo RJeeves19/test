@@ -1,0 +1,9 @@
+{
+    "applications": [
+        {
+            "name": "Example Application",
+            "version": "1.0.0",
+            "installCommand": "Start-Process -FilePath 'C:\\Path\\To\\Installer.exe' -ArgumentList '/silent' -Wait"
+        }
+    ]
+}

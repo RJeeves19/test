@@ -1,0 +1,19 @@
+{
+    "UserAccounts": [
+        {
+            "Username": "admin",
+            "Password": "P@ssw0rd",
+            "Role": "Administrator"
+        },
+        {
+            "Username": "user1",
+            "Password": "P@ssw0rd1",
+            "Role": "StandardUser"
+        },
+        {
+            "Username": "user2",
+            "Password": "P@ssw0rd2",
+            "Role": "StandardUser"
+        }
+    ]
+}
