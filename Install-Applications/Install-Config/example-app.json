@@ -1,0 +1,9 @@
+{
+    "ApplicationName": "Example Application",
+    "InstallationOrder": 1,
+    "InstallerPath": "C:\\Installers\\example-setup.exe",
+    "InstallerArguments": "/quiet /norestart",
+    "VerificationPath": "C:\\Program Files\\Example\\example.exe",
+    "RequiresReboot": true,
+    "PostInstallCleanup": ["C:\\Installers\\example-setup.exe"]
+}
